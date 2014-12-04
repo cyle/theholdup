@@ -2,7 +2,7 @@
 
 I commonly find myself at work with way too many projects and no simple way to track them all in one place.
 
-And I think [Basecamp]() is great, [Trello]() is neat, and all the other project management apps and services out there are wonderful. But I want something really, really simple.
+And I think [Basecamp](https://basecamp.com/) is great, [Trello](https://trello.com/) is neat, and [all the other project management apps and services out there](http://lmgtfy.com/?q=project+management+app) are wonderful. But I want something really, really simple.
 
 The name of a project, and its most recent status. Most likely that status is a reason why it's being held up. Hence, the title of this application.
 
